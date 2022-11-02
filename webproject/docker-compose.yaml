@@ -1,0 +1,6 @@
+services:
+  webapp:
+    build: .
+    image: kethan
+    ports:
+      - "8443:8080"
