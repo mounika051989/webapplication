@@ -6,7 +6,7 @@
 
   <groupId>com.file</groupId>
   <artifactId>app</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <packaging>war</packaging>
 
   <name>webproject Maven Webapp</name>
