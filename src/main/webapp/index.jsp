@@ -57,7 +57,7 @@
         window.onload = applyRandomColors;
     </script>
 </head>
-<body bgcolor="black">
+<body bgcolor="yellow">
     <div class="container">
         <div class="content">
             <h1 class="animated-text stylish-text">MAHESH</h1>
